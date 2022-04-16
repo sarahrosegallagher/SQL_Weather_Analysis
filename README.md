@@ -12,6 +12,14 @@ The deliverables contained in June_Dec_Analysis.ipynb are summary statistics for
 
 ## Results
 
+### June Summary Statistics
+![june](Resources/june_stats.png)
+
+
+### December Summary Statistics 
+![dec](Resources/dec_stats.png)
+
+
 Some major points from the two analysis deliverables include:
 
 
